@@ -1,0 +1,62 @@
+body
+{
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+
+
+#zoom_plansza
+{
+	background-image: url('/GitHub/MyMiniGame/img/plansza.jpg');
+	width: 800px;
+	height: 800px;
+	padding: auto;
+	margin: auto;
+	color: #000;
+	text-shadow: 1px 1px 3px #888;
+}
+
+#zoom_plansza div
+{
+	height: 30px;
+	border: solid 1px #000;
+	border-radius: 2px;
+	width: 26px;
+	background-color: #fff;
+}
+
+#p01
+{
+	position: relative;
+	top: 30px;
+	left: 247px;
+}
+
+#p02
+{
+	position: relative;
+	top: -2px;
+	left: 281px;
+}
+
+#p03
+{
+	position: relative;
+	top: -34px;
+	left: 315px;
+}
+
+#p04
+{
+	position: relative;
+	top: -66px;
+	left: 349px;
+}
+
+#p05
+{
+	position: relative;
+	top: -90px;
+	left: 0px;
+}
